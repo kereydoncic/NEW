@@ -1,4 +1,4 @@
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="TV Channels" resolution="640@360",A2Z
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVVax44.png" group-title="TV Channels" resolution="640@360",ABC Austrailia
